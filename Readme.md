@@ -16,5 +16,4 @@ This page is based on my testimonials.
 
 ## License
 
-## Requirements
-You are required to be accessible to a computer, smartphone and internet connection
+## Project setup Instructions
