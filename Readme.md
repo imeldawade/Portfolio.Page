@@ -4,8 +4,8 @@ Portfolio Page
 ## Description
 This page is based on my testimonials.
 
-<!-- ## Author
-* Imelda Wade -->
+## Author
+* Imelda Wade
 
 <!-- ## Technologies used
 * HTML
