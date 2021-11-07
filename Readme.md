@@ -2,4 +2,16 @@
 Portfolio Page
 
 ## Description
-This basically describes 
+This page is based on my testimonials.
+
+<!-- ## Author
+* Imelda Wade -->
+
+<!-- ## Technologies used
+* HTML
+* CSS -->
+
+## Project live link
+
+
+## License
