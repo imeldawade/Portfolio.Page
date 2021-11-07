@@ -12,6 +12,9 @@ This page is based on my testimonials.
 * CSS
 
 ## Project live link
-
+* https://imeldawade.github.io/Portfolio.Page/
 
 ## License
+
+## Requirements
+You are required to be accessible to a computer, smartphone and internet connection
