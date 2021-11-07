@@ -1,0 +1,38 @@
+/* body{
+    font-style: oblique;
+    font-size: 50px;
+    text-align: left;
+    margin-top: 20%;
+    
+    
+
+} */
+ul{
+    list-style-type:none;
+    text-align: right;
+}
+li{
+    display: inline;
+    padding: 15px;
+    font-style: oblique;
+    font-size: 120%;
+}
+.Girl{
+    margin-top: 50px;
+    padding-left: 50%;   
+}
+
+.wade{
+    font-style: italic;
+    font-size: 100px;
+    margin-top: -30%;
+}
+.About{
+    margin-top: 10%;
+    t
+}
+.About h2{
+    text-align:center ;
+    font-size: 40px;
+    font-style: oblique;
+}
