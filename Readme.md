@@ -7,7 +7,7 @@ This page is based on my testimonials.
 ## Author
 * Imelda Wade
 
-## Technologies used
+## Technologies                                                             
 * HTML
 * CSS
 
